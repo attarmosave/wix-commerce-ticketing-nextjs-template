@@ -2626,8 +2626,8 @@ __metadata:
   linkType: hard
 
 "@wix/stores@npm:^1.0.71":
-  version: 1.0.345
-  resolution: "@wix/stores@npm:1.0.345"
+  version: 1.0.346
+  resolution: "@wix/stores@npm:1.0.346"
   dependencies:
     "@wix/stores_brands-v-3": 1.0.42
     "@wix/stores_catalog-versioning": 1.0.31
@@ -2641,8 +2641,8 @@ __metadata:
     "@wix/stores_ribbons-v-3": 1.0.39
     "@wix/stores_stores-locations-v-3": 1.0.45
     "@wix/stores_subscription-options": 1.0.63
-    "@wix/stores_wishlist": 1.0.55
-  checksum: f65a98aeec1feb0cd55eb3d04a5c18cdbb58510e9b839ed8f51ea3d0b5bb89ed97c911364f40eaf36a3a41936be635403251aa50d450c80d64573f40484f5435
+    "@wix/stores_wishlist": 1.0.56
+  checksum: 122858bdbf4eaa38c3a607b310d08aac2a4186fa7d21bcadbb29ead9a53092f874ba8a7012fc090cf96e7cd086a3e5e48e1e091660a19101d9e9bf0f82bf02fb
   languageName: node
   linkType: hard
 
@@ -2766,13 +2766,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/stores_wishlist@npm:1.0.55":
-  version: 1.0.55
-  resolution: "@wix/stores_wishlist@npm:1.0.55"
+"@wix/stores_wishlist@npm:1.0.56":
+  version: 1.0.56
+  resolution: "@wix/stores_wishlist@npm:1.0.56"
   dependencies:
     "@wix/sdk-runtime": ^0.3.22
     "@wix/sdk-types": ^1.12.4
-  checksum: 4edaf178cf5b5965a849ed106b4418f332914e3af6ea105a1d4736ce115f537f037cedbba083a2e93a432196a635e934c0162feee020d5ba7b869c1a0a068fef
+  checksum: 458382f734ed6df0f56529959c0746fe8e386e39ee0a360be9386d062549a9f7103b3a9c2a858c10c6214cae4c72125c33cc1b537a04b0410159f655e9a8c819
   languageName: node
   linkType: hard
 
